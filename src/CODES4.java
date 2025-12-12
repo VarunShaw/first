@@ -1,6 +1,6 @@
 public class CODES4 {
     public static void main(String[] args) {
-        int num = 150;
+        int num = 66;
         int temp = num, rev = 0;
 
         while (temp > 0) {
